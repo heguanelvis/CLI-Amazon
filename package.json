@@ -1,0 +1,28 @@
+{
+  "name": "cli-amazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront in command line",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.0.0",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.17.1",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heguanelvis/CLI-Amazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heguanelvis/CLI-Amazon/issues"
+  },
+  "homepage": "https://github.com/heguanelvis/CLI-Amazon#readme"
+}
